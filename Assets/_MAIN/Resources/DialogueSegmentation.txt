@@ -1,0 +1,12 @@
+Camille "This is line 1"
+"This is line 2 from Camille"
+"This is line 3 from Camille"
+
+narrator "Narrator is speaking now."
+"Narrator is continuing to speak"
+
+Leo "Leo 1"
+"Leo 2"
+
+Camille "Camille 1"
+"Camille 2"
